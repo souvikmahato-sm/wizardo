@@ -1,6 +1,6 @@
 > *“The more I learn, the more I realize how much I don't know"*
 ---
-### **Hi there! I'm *Souvik*, I love programming and optimizing stuffs. I am a student of Computer Science from IIEST, Shibpur .** 
+### **Hi there! I'm *Souvik*, I love programming and optimizing stuffs. I'm a student of Computer Science from IIEST, Shibpur .** 
 ---
 ### **I love to :**
 - **Practise compeititive programming.** [
