@@ -1,4 +1,7 @@
-> *“The more I learn, the more I realize how much I don't know"*
+![ezgif com-gif-maker 2](https://user-images.githubusercontent.com/58760297/97091918-1715b400-165d-11eb-8fa1-3c17c44ce8e9.gif)
+
+
+> ***“The more I learn, the more I realize how much I don't know"***
 ---
 ### **Hi there! I'm *Souvik*, I love programming and optimizing stuffs. I'm a student of Computer Science from IIEST, Shibpur .** 
 ---
