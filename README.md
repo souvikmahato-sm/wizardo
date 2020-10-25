@@ -1,6 +1,8 @@
 <div align = "center">
 <body>
 <img src = "https://user-images.githubusercontent.com/58760297/97091918-1715b400-165d-11eb-8fa1-3c17c44ce8e9.gif"/>
+<audio controls src = "../mp3/green_beats.mp3" >
+</audio>
 </body>
 </div>
 
