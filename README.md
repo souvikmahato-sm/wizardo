@@ -4,10 +4,6 @@
 </body>
 </div>
 
-<audio controls autostart="true">
-  <source src="https://drive.google.com/file/d/1tj24D7jwuIDQQnW2rf5fm5v8tfDXplnL/view" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 
 > ***“The more I learn, the more I realize how much I don't know"***
 ---
